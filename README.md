@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Dynamic List Manager** is a simple React application that allows users to dynamically add items to a list. Users can input text into a field and submit it using a button. Once submitted, the item is added to the list, and the input field is cleared. The list updates in real time with each new item added. 
+The **Dynamic List Manager** is a simple React application that allows users to dynamically add items to a list. Users can input text into a field and submit it using a button. Once submitted, the item is added to the list, and the input field is cleared. The list updates in real time with each new item added.
 
 ## Features
 
@@ -17,6 +17,13 @@ The **Dynamic List Manager** is a simple React application that allows users to 
 - **Minimal & Clean Design**: The app follows a simple, modern UI design.
 - **Input Field & Button**: Styled to resemble the provided reference image.
 - **List Items**: Displayed within a bordered and lightly shaded container to maintain a professional look.
+  
+The styling is defined in the `DynamicListManager.css` file.
+
+## Files
+
+- **HTML**: The structure and layout of the application are in the `DynamicListManager.html` file.
+- **CSS**: The styles for the application are contained in the `DynamicListManager.css` file.
 
 ## Usage
 
